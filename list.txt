@@ -1,10 +1,21 @@
 ﻿Список группы 171 (преподаватель Полозов В.С.):
-1. Батов Никита batov
-2. Болотов Сергей CepGamer
-3. Матвей Брыксин mbryksin
-4. Гагина Лада ladagagina
-5. Лозов Пётр Lozov-Petr
-6. Лупачев Евгений
-7. Alex Semin login: Alllex
-8. Алексей Митенев AlexMitenev
-9. Александр Смирнов AlexSmirnow
+1. Александр Смирнов 
+   login: AlexSmirnow
+2. Алексей Митенев 
+   login: AlexMitenev
+3. Алексей Сёмин
+   login: Alllex
+4. Дмитрий Петухов
+   login: dimart
+5. Евгений Лупачёв
+   login: 404 :)
+6. Лада Гагина
+   login: ladagagina
+7. Матвей Брыксин
+   login: mbryksin
+8. Никита Батов
+   login: batov
+9. Пётр Лозов
+   login: Lozov-Petr
+10. Сергей Болотов
+   login: CepGamer

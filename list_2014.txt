@@ -1,5 +1,7 @@
-������ 171 ������. ����� 2014.
-1.������� ������
-  login:PhilippDolgolev
-2.Ташкинов Михаил
-  login:mtashkinov
+﻿Список группы 171 2014 г. (преподаватель Полозов В.С.):
+1.Долголев Филипп
+  login : PhilippDolgolev
+2.Сулягина Анастасия
+  login : AnastasiaSulyagina
+3.Ташкинов Михаил
+  login : mtashkinov

@@ -7,3 +7,5 @@
   login : AnastasiaSulyagina
 4. Ташкинов Михаил
   login : mtashkinov
+5. Чусовитин Денис
+  login : denis-chusovitin

@@ -1,11 +1,13 @@
 ﻿Список группы 171 2014 г. (преподаватель Полозов В.С.):
 1. Аудучинок Евгений
   login : eugene-auduchinok
-2. Долголев Филипп
+2. Байгельдин Александр
+  login: a-baygeldin
+3. Долголев Филипп
   login : PhilippDolgolev
-3. Сулягина Анастасия
+4. Сулягина Анастасия
   login : AnastasiaSulyagina
-4. Ташкинов Михаил
+5. Ташкинов Михаил
   login : mtashkinov
-5. Чусовитин Денис
+6. Чусовитин Денис
   login : denis-chusovitin

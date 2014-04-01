@@ -5,13 +5,13 @@
   login: a-baygeldin
 3. Горохов Артём
   login: gorohovart
-3. Долголев Филипп
+4. Долголев Филипп
   login : PhilippDolgolev
-4. Пыхтин Александр
+5. Пыхтин Александр
   login : nbIxMaN
-5. Сулягина Анастасия
+6. Сулягина Анастасия
   login : AnastasiaSulyagina
-6. Ташкинов Михаил
+7. Ташкинов Михаил
   login : mtashkinov
-7. Чусовитин Денис
+8. Чусовитин Денис
   login : denis-chusovitin

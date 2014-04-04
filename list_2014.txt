@@ -7,13 +7,15 @@
   login: gorohovart
 4. Долголев Филипп
   login : PhilippDolgolev
-5. Мелентьев Кирилл
+5. Лобанов Артём
+  login : resaglow
+6. Мелентьев Кирилл
   login : melentyev
-6. Пыхтин Александр
+7. Пыхтин Александр
   login : nbIxMaN
-7. Сулягина Анастасия
+8. Сулягина Анастасия
   login : AnastasiaSulyagina
-8. Ташкинов Михаил
+9. Ташкинов Михаил
   login : mtashkinov
-9. Чусовитин Денис
+10. Чусовитин Денис
   login : denis-chusovitin

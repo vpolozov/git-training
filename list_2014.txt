@@ -3,19 +3,21 @@
   login : eugene-auduchinok
 2. Байгельдин Александр
   login: a-baygeldin
-3. Горохов Артём
+3. Боровиков Никита
+  login: borovikovnik
+4. Горохов Артём
   login: gorohovart
-4. Долголев Филипп
+5. Долголев Филипп
   login : PhilippDolgolev
-5. Лобанов Артём
+6. Лобанов Артём
   login : resaglow
-6. Мелентьев Кирилл
+7. Мелентьев Кирилл
   login : melentyev
-7. Пыхтин Александр
+8. Пыхтин Александр
   login : nbIxMaN
-8. Сулягина Анастасия
+9. Сулягина Анастасия
   login : AnastasiaSulyagina
-9. Ташкинов Михаил
+10. Ташкинов Михаил
   login : mtashkinov
-10. Чусовитин Денис
+11. Чусовитин Денис
   login : denis-chusovitin
